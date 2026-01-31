@@ -37,7 +37,7 @@ Este proyecto está optimizado para deployment en Vercel:
 3. Vercel detectará automáticamente Next.js y configurará todo
 4. Deploy automático en cada push
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/gonzacba17/andiva-landing)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/gonzacba17/Andiva)
 
 ## 📄 Estructura del Proyecto
 
